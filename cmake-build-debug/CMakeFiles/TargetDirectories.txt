@@ -1,0 +1,3 @@
+/home/or/CLionProjects/operatingSys6/cmake-build-debug/CMakeFiles/operatingSys6.dir
+/home/or/CLionProjects/operatingSys6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/or/CLionProjects/operatingSys6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
